@@ -1,1 +1,1 @@
-changes added in mybranch, added changes on the same line.
+changes added in mybranch, added change in branch 1.
